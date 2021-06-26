@@ -1,0 +1,33 @@
+.details__table{
+    margin-top: 10px;
+    padding-bottom: 30px;
+    background-color: white;
+    box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 2);
+    height: 80vh;
+    width: 90vw;
+}
+
+.details{
+    padding-top: 30px;
+    border-collapse: collapse;
+    width: 90vw;
+    align-items: center;
+}
+
+.details th, .details td{
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.search__box{
+    height: 40px;
+    width: 200px;
+    margin: 20px;
+    font-size: 100%;
+}
+
+.search{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
